@@ -6,7 +6,9 @@ green pipes that are randomly spawned. It includes features such as a high score
 Check out the Game Play Video.mp4 file to see a video of the game being played!
 
 
-
+# Main Menu:
 ![Main Menu:](Images/Image1.png) 
+# Game Play:
 ![Game Play:](Images/Image2.png) 
+# Game Over and Score Board:
 ![Game Over and Score Board:](Images/Image3.png) 
